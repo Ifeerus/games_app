@@ -1,3 +1,3 @@
-# Game App 2022
-Практическая работа студента группы IA-213 Франчук Игоря.
-2022 Кишинев UTM
+# Movie App 2022
+The practical work of the student of IA-213 Franciuc Igor.
+2022 Chisinau, UTM
